@@ -6,5 +6,10 @@ version v0.1
 ------
      使用了jeremywei的weixin-api实现的功能
      使用了rrestjs框架，致谢吴老师
+使用方法
+------
+### 安装
+npm install wx-api -g
+### 使用
 
 o2o for weixin
