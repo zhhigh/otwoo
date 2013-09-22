@@ -1,6 +1,6 @@
 otwoo o2o for weixin
 =====
-version v0.1 2013-09-22 （近40年纪学习Nodejs,诚请指正为幸)
+version v0.1 2013-09-22
 ------
 致谢
 ------
