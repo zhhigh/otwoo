@@ -1,6 +1,6 @@
 otwoo o2o for weixin
 =====
-version v0.1
+version v0.1 2013-09-22
 ------
 致谢
 ------
