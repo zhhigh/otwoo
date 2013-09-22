@@ -1,4 +1,4 @@
-otwoo
+otwoo o2o for weixin
 =====
 version v0.1
 ------
@@ -14,4 +14,3 @@ npm install wx-api -g
     1、安装rrestjs
     2、安装wx-api
     3、安装mongodb
-o2o for weixin
