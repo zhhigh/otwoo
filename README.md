@@ -9,8 +9,8 @@ version v0.1 2013-09-22 （近40年纪学习Nodejs,诚请指正为幸)
 使用方法
 ------
 ### 安装依赖
-npm install wx-api -g
-npm install rrestjs -g
+     npm install wx-api -g
+     npm install rrestjs -g
 ### 使用
     1、安装mongodb，并启动
     2、将wxconsole,weixin解压至目录
