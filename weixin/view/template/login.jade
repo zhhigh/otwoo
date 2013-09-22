@@ -1,0 +1,31 @@
+
+block content
+form.form-horizontal(method='post')
+    fieldset
+        legend V科成
+        div.control-group
+            label.control-label(for='serialno') 序号
+            div.controls
+                input.input-xlarge(type='text',id='serialno',name='serialno',size=200)
+        div.control-group
+            label.control-label(for='msgtype') 消息类型
+            div.controls
+                input.input-xlarge(type='text',id='msgtype',name='msgtype',size=200,readonly=true,value="news")
+        div.control-group
+            label.control-label(for='title') 标题
+            div.controls
+                input.input-xlarge(type='text',id='title',name='title',size=200)
+        div.control-group
+            label.control-label(for='desc') 描述
+            div.controls
+                input.input-xlarge(type='text',id='desc',name='desc',size=200)
+        div.control-group
+            label.control-label(for='picturl') 图片链接地址
+            div.controls
+                input.input-xlarge(type='text',id='picturl',name='picturl',size=200)
+        div.control-group
+            label.control-label(for='url') 链接地址
+            div.controls
+                input.input-xlarge(type='text',id='url',name='url',size=200)
+        div.form-actions
+            button.btn.btn-primary(type='submit',action="", method="GET") 确认

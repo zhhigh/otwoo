@@ -1,0 +1,9 @@
+!!!5
+label Username:
+input(name='user[name]')
+
+
+label Msgtype:
+input(name='msg[type]')
+
+      
