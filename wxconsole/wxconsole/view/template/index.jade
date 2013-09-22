@@ -1,0 +1,17 @@
+form#tomong(method="get",action="/index/putdata")
+    p 序号:
+        input#serial(type="text",name="serial",size=300)
+    p 类型:
+        input#typ(type="text",name="typ",size=300,value="news",readonly="readonly")
+    p 标题:
+        input#title(type="text", name="title",size=300)
+    p 描述:
+        input#desc(type="text", name="desc",size=300)
+    p 图片链接:
+        input#picurl(type="text" ,name="picurl",size=300)
+    p 链接:
+        input#url(type="text",name="url",size=300)
+    //p: button#toclick(type="button",onclick="",name="ok") Create
+    p: button#toclick(type="submit",onclick="",name="ok") Create
+script(type="text/javascript",src="/static/?parse=/static/js/jquery.1.6.2.js|/static/js/base.js")
+//script(type="text/javascript",src="index.js")
