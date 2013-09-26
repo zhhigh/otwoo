@@ -14,7 +14,7 @@ version v0.1 2013-09-22
 ### wx-api的使用
     wx-api使用了weixin-api里面的代码和rrestjs框架，通过简单的调用实现微信订阅号的接口
     使用具体代码参见：weixin/controller/app.js
-### 使用
+### weixin及wxconsole使用
     1、安装mongodb，并启动
     2、将wxconsole,weixin解压至目录
     3、修改config/config.js（端口号等，按需）
